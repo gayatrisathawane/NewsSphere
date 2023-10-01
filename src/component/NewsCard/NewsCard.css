@@ -1,0 +1,34 @@
+.news-img{
+    height: 200px;
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.newscard{
+  width: 440px;
+  /* height: 600px; */
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow:  0 0 5px rgb(158, 177, 247);
+}
+.publisAuther{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.newsdesc{
+    font-size: 22px;
+}
+.newsbtn{
+    padding: 10px;
+    background-color: rgb(148, 148, 244);
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    box-shadow: 0 0 5px rgb(151, 151, 230);
+
+
+}
